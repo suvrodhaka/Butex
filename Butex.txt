@@ -6,3 +6,4 @@ Compatibility Testing
 Technical Testing
 Automation Testing
 Security Testing
+Performance Testing
